@@ -1,5 +1,6 @@
 # Documentation: Containerized OSINT Environment (SpiderFoot)
-
+> 📝 **Read the full walkthrough on DEV.to:**  
+> [How I got out of dependency hell with Docker (SpiderFoot OSINT lab)](https://dev.to/muzasio/how-i-got-out-of-dependency-hell-with-docker-spiderfoot-osint-lab-5e6d)
 
 ## 🎯 Objective
 
